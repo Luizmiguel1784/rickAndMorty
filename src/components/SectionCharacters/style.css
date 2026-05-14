@@ -16,7 +16,7 @@
     color: var(--color-primary);
 }
 
-.conteiner-cards-characters{
+.container-cards-characters{
     display: flex;
     flex-wrap: wrap;
     gap: 35px;

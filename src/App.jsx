@@ -13,7 +13,6 @@ function App() {
     <>
     <Header/>
     <Main/>
-    <Card/>
     <SectionCharacter/>
     <Footer/>
     </>

@@ -8,28 +8,28 @@ main{
     padding: 100px 0;
 }
 
-.content-main{
+.main-content{
     display: flex;
     flex-direction: column;
     gap: 25px;
 }
 
-.content-main h1{
+.main-content h1{
     font-size: 40px;
     font-weight: bold;
     color: var(--color-white);
 }
 
-.content-main h1 span{
+.main-content h1 span{
     color: var(--color-primary);
 }
 
-.content-main p{
+.main-content p{
     font-size: 20px;
     color: var(--color-white);
 }
 
-.conteiner-btn-main{
+.container-btn-main{
     display: flex;
     gap: 20px;
 }

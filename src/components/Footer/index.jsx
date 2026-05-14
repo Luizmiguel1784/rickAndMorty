@@ -2,6 +2,7 @@ import './style.css'
 
 export const Footer = ()=>{
 
+    return(
     <div className='Footer'>
 
         <p>
@@ -9,4 +10,5 @@ export const Footer = ()=>{
         </p>
 
     </div>
+    )
 }
